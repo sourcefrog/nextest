@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"attr":["tracable_parser"],"fn":["cumulative_histogram","histogram"],"struct":["TracableInfo"],"trait":["FragmentDisplay","HasTracableInfo","Tracable"]};
